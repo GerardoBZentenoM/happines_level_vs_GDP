@@ -6,7 +6,7 @@ This repository contains a Python script for visualizing the correlations betwee
 ## Visualizations
 
 ### Happiness Score vs. GDP per Capita
-![Happiness Score vs. GDP per Capita] (https://github.com/GerardoBZentenoM/happines_level_vs_GDP/blob/main/Figure_1.png)](https://github.com/GerardoBZentenoM/happines_level_vs_GDP/blob/main/Figure_1.png)
+![Happiness Score vs. GDP per Capita] (https://github.com/GerardoBZentenoM/happines_level_vs_GDP/blob/main/Figure_1.png)
 
 ## Conclusions
 - A higher GDP per capita tends to be associated with a higher Happiness Score.
